@@ -16,7 +16,7 @@ The goal was to move beyond a single "churn score" and identify *specific, actio
 ## Key Findings
 
 ### 1. Engagement & Recency
-- **87%** of users hadn't logged in for 7+ days â€” a strong signal of disengagement.
+- **87%** of users hadn't logged in for 7+ days a strong signal of disengagement.
 - Churned users are inactive for **6 more days on average** and use the product **12% less weekly** than retained users.
 - Users segment into three recency-based health tiers:
   - 52% Healthy
@@ -25,22 +25,22 @@ The goal was to move beyond a single "churn score" and identify *specific, actio
 - Average recency gap: **32 days (churned)** vs **26.1 days (retained)**.
 
 ### 2. Payment Failures
-- Churn jumps from ~40% to **64â€“67%** after 2+ payment failures.
-- Users with any payment failure churn at **60.6%** â€” ~21 points higher than users without.
+- Churn jumps from 40% to **67%** after 2+ payment failures.
+- Users with any payment failure churn at **60.6%** 21 points higher than users without.
 - Churned users average **2.8 failures** vs **2.07** for retained users.
-- Failure-driven churn is consistent (~68.5%) **across all price tiers**, suggesting a systemic payment/gateway issue rather than an affordability problem.
+- Failure-driven churn is consistent (68.5%) **across all price tiers**, suggesting a systemic payment/gateway issue rather than an affordability problem.
 
 ### 3. Support Tickets
-- Churn holds near 50â€“57% for 1â€“3 tickets, then spikes to **68%** at 5+ tickets.
+- Churn holds near 57% for 3 tickets, then spikes to **68%** at 5+ tickets.
 - Churned users average **4.22 tickets** vs **3.44** for active users.
-- Ticket volume per plan is consistent (~3.9), indicating a **product-wide** issue, not plan-specific.
-- Support tickets and payment failures are **statistically independent** (Pearson correlation â‰ˆ **-0.007**) â€” two separate churn drivers.
+- Ticket volume per plan is consistent (3.9), indicating a **product-wide** issue, not plan-specific.
+- Support tickets and payment failures are **statistically independent** (Pearson correlation **-0.007**)  two separate churn drivers.
 
 ### 4. Usage Trends
 - Users with <5 hrs/week usage churn at **76.29%** vs the overall average of **57.3%**.
-- **5 hrs/week is a critical engagement threshold** â€” churn drops sharply above it.
-- Beyond 10 hrs/week, additional usage doesn't meaningfully reduce churn (plateaus at ~53â€“54%).
-- **Tenure is not a strong churn driver** â€” churn is flat across new (56.6%), old (57.1%), and loyal (58.3%) users, disproving the "new users churn more" hypothesis.
+- **5 hrs/week is a critical engagement threshold** churn drops sharply above it.
+- Beyond 10 hrs/week, additional usage doesn't meaningfully reduce churn (plateaus at 54%).
+- **Tenure is not a strong churn driver**  churn is flat across new (56.6%), old (57.1%), and loyal (58.3%) users, disproving the "new users churn more" hypothesis.
 
 ## Recommended Actions
 
